@@ -1,0 +1,8 @@
+multiplayerquiz.common.protocol.ClientHello$ClientHelloSerializer
+multiplayerquiz.common.protocol.ServerHello$ServerHelloSerializer
+multiplayerquiz.common.protocol.BoardStateUpdate$BoardStateUpdateSerializer
+multiplayerquiz.common.protocol.Bid$BidSerializer
+multiplayerquiz.common.protocol.BidAccepted$BidAcceptedSerializer
+multiplayerquiz.common.protocol.BidRefused$BidRefusedSerializer
+multiplayerquiz.common.protocol.Answer$AnswerSerializer
+multiplayerquiz.common.protocol.UserStateUpdate$UserStateUpdateSerializer
